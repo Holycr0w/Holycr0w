@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on production LLM systems & agentic AI workflows at NEXA Digital<br>👯 I'm looking to collaborate on open-source AI agent frameworks and RAG tooling<br>🤝 I'm looking for help with go-to-market strategy for AI SaaS products<br>🌱 I'm currently learning multi-agent orchestration patterns & LLM fine-tuning (LoRA/QLoRA)<br>💬 Ask me about building production ready RAG pipelines, LangGraph agents, or shipping LLMs at scale<br>⚡ Fun fact: I've automated away 60% of manual ops for clients  and I'm just getting started
+🔭 I'm currently working on production LLM systems & agentic AI workflows at NEXA Digital<br>👯 I'm looking to collaborate on open-source AI agent frameworks and RAG tooling<br>🤝 I'm looking for help with go-to-market strategy for AI SaaS products<br>🌱 I'm currently learning multi-agent orchestration patterns using Claude Code and MCP Servers<br>💬 Ask me about building production ready RAG pipelines, LangGraph agents, or shipping LLMs at scale<br>⚡ Fun fact: I've automated away 60% of manual ops for clients  and I'm just getting started
 
 
 ## 🌐 Socials:
